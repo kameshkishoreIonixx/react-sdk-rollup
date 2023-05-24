@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# TypeScript
+*.tsbuildinfo
+# /docs
+
+# production
+/build
+dist
+.npmrc 
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# test
+coverage
+stats.html
